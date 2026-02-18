@@ -1,13 +1,13 @@
 '''
-Assignment 1 part c
-Name:  B naga maheswar reddy
-prn : 250200007
-application :CDS/2025/1864
-Collaborators: P shashank
+Assignment 1 part A
+Name: P shashank
+prn : 250200465
+application :CDS/2025/0987
+Collaborators: B naga maheswar reddy
 '''
 starting_salary = float(input("Enter the starting salary: "))
 
-# constants given in question
+# data given in question
 total_cost = 1000000
 down_payment = 0.25 * total_cost
 semi_raise = 0.07

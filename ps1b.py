@@ -1,10 +1,9 @@
-
 '''
-Assignment 1 part B
-Name:  B naga maheswar reddy
-prn : 250200007
-application :CDS/2025/1864
-Collaborators: P shashank
+Assignment 1 part A
+Name: P shashank
+prn : 250200465
+application :CDS/2025/0987
+Collaborators: B naga maheswar reddy
 '''
 # inputs
 annual_salary = float(input("Enter your starting annual salary: "))
