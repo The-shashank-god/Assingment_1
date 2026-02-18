@@ -1,5 +1,5 @@
 '''
-Assignment 1 part A
+Assignment 1 part B
 Name: P shashank
 prn : 250200465
 application :CDS/2025/0987
